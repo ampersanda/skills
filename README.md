@@ -21,3 +21,7 @@ git clone --depth=1 https://github.com/ampersanda/skills /tmp/_ampskills && mkdi
 ## Skills
 
 - [brave-cookies](brave-cookies/) — Reuse your Brave Browser session (macOS) to access authenticated pages from curl / requests / Playwright.
+
+## Conventions
+
+Commits follow [Conventional Commits](https://www.conventionalcommits.org/): `feat:`, `fix:`, `docs:`, `chore:`, `refactor:`, etc.
